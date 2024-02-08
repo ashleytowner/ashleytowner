@@ -1,13 +1,8 @@
 ### Ashley Towner
 
-I am a full-stack software engineer, I have a lot of experience with:
+I am a full-stack software engineer
 
-- [Typescript](https://github.com/microsoft/TypeScript)
-- [React](https://github.com/facebook/react)
-- SQL
-- AWS Serverless & CloudFormation
-- [neovim](https://github.com/neovim/neovim)
-- zsh
+[![My Skills](https://skillicons.dev/icons?i=neovim,ts,js,nodejs,html,css,tailwind,react,graphql,aws,mysql,lua&theme=dark&perline=6)](https://skillicons.dev)
 
 I do a lot of my work in the terminal and use a lot of CLI tools. Feel free to check out my [dotfiles repo](https://github.com/ashleytowner/dotfiles) for inspiration. 
 
